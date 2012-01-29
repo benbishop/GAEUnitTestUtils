@@ -1,3 +1,4 @@
 freckletest.pyc
 test_unit_test_utils.pyc
 *.pyc
+.idea/
